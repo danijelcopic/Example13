@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aktivnost</string>
+    <string name="start_activity">Startuj aktivnosti</string>
+    <string name="open_browser">Otvoren web pretrazivac</string>
+    <string name="open_third_activity">Otvori trecu aktivnost</string>
+    <string name="open_camera">Otvori kameru</string>
+</resources>
